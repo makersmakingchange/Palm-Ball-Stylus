@@ -1,11 +1,10 @@
 # Palm Ball Stylus
 The Palm Ball Stylus is intended for users who cannot use traditional stylus pens for a variety of reasons. Instead of a traditional pen style stylus, it ends in a large ball that requires much less strength and dexterity to grip. The device uses a length of wire and conductive foam to allow the user to interact with the capacitive touchscreen. 
 
-<img src="Photos/Device-Name.jpg" width="500" alt="Picture of Palm Ball Stylus.">
+<img src="Photos/Palm-Ball-Stylus.jpg" height="250" alt="Picture of Palm Ball Stylus.">
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/palm-ball-stylus/)
-- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/palm-ball-stylus/)
 
 
 ## How to Obtain a Palm Ball Stylus
@@ -74,8 +73,9 @@ Everything needed or used to design, make, test, or prepare the Palm Ball Stylus
 Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Palm Ball Stylus are published under a Creative Commons Attribution-ShareAlike 4.0 license https://creativecommons.org/licenses/by-sa/4.0/ (CC BY-SA 4.0).
 
 
----
+----
 
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 <img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
 
@@ -91,5 +91,5 @@ We are committed to creating a network of volunteer makers who support people wi
 
 
 ## Contact Us
-
 For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Website](https://www.makersmakingchange.com/), [MMC Forum](https://makersmakingchange.com/forum), or contact info@makersmakingchange.com
+<!-- ABOUT MMC END -->
