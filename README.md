@@ -62,9 +62,8 @@ Reference the [Assembly Guide](/Documentation/Palm_Ball_Stylus_Assembly_Guide_V1
 
 ## Attribution
 Designers:
- - Design by [Michael Papp](https://www.thingiverse.com/accesswoodworx/designs) on Thingiverse.
- - Documentation by Neil Squire Society/Makers Making Change
-
+ - The original [Ball Stylus Rev 4](https://www.thingiverse.com/thing:1319883) design using conductive filament was created by [Michael Papp / accesswoodworx](https://www.thingiverse.com/accesswoodworx) and licensed under the Creative Commons - Attribution license [(CC-BY)](https://creativecommons.org/licenses/by/4.0/).
+ - Updated design and documentation by Neil Squire Society/Makers Making Change
 
 
 ## License
