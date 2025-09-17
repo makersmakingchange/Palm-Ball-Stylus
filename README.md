@@ -48,11 +48,11 @@ Reference the [Assembly Guide](/Documentation/Palm_Ball_Stylus_Assembly_Guide_V1
 |----------------------|---------|------|
 | Design Rationale     | 1.0     | [Palm_Ball_Stylus_Design_Rationale](/Documentation/Palm_Ball_Stylus_Design_Rationale_V1.0.pdf)     |
 | Maker Checklist      | 1.0     | [Palm_Ball_Stylus_Maker_Checklist](/Documentation/Palm_Ball_Stylus_Maker_Checklist_V1.0.pdf)     |
-| Bill of Materials    | 1.0     | [Palm_Ball_Stylus_Bill_of_Materials](/Documentation/Palm_Ball_Stylus_BOM_V1.0.xlsx)     |
+| Bill of Materials    | 1.1     | [Palm_Ball_Stylus_Bill_of_Materials](/Documentation/Palm_Ball_Stylus_BOM_V1.1.xlsx)     |
 | 3D Printing Guide    | 1.0     | [Palm_Ball_Stylus_3D_Printing_Guide](/Documentation/Palm_Ball_Stylus_3D_Printing_Guide_V1.0.pdf)     |
-| Assembly Guide       | 1.0     | [Palm_Ball_Stylus_Assembly_Guide](/Documentation/Palm_Ball_Stylus_Assembly_Guide_V1.0.pdf)     |
+| Assembly Guide       | 1.1     | [Palm_Ball_Stylus_Assembly_Guide](/Documentation/Palm_Ball_Stylus_Assembly_Guide_V1.1.pdf)     |
 | User Guide           | 1.0     | [Palm_Ball_Stylus_User_Guide](/Documentation/Palm_Ball_Stylus_User_Guide_V1.0.pdf)    |
-| Changelog            | 1.0     | [Palm_Ball_Stylus_Changelog](/Documentation/Palm_Ball_Stylus_Changelog_V1.0.pdf)     |
+| Changelog            | 1.1     | [Palm_Ball_Stylus_Changelog](/Documentation/Palm_Ball_Stylus_Changelog_V1.1.pdf)     |
 
 ### Design Files
  - [CAD Files](/Design_Files)
